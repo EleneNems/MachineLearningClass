@@ -60,6 +60,7 @@ B2 = np.random.randint(1, 100, (3, 3))
 
 C3 = A2 * B2
 print(f"The matrixes with randoms multipled are:\n", C3)
+
 #20
 A3 = np.random.randint(1, 11, (10, 10))
 print("The original matrix\n", A3)
